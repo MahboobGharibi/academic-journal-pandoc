@@ -1,13 +1,13 @@
 ---
-title: Short Paper
-author:
+title: M GH
+author: 
 - correspondence: yes
   email: 'jane.doe\@example.com'
   equal_contributor: yes
-  id: Jane Doe
+  id: M Gharibi
   institute:
   - 1
-  name: Jane Doe
+  name: M Gharibi
 - equal_contributor: yes
   id: 'John Q. Doe'
   institute:
